@@ -1,0 +1,14 @@
+data/
+config.json
+*.session
+*.session-journal
+*.sqlite3
+*.db
+*.log
+*.zip
+*.7z
+*.rar
+ms-playwright/
+rulate-auto-liker-portable/
+RulateAutoLiker.exe
+source_rulate_auto_liker.py

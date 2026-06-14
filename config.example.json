@@ -1,0 +1,45 @@
+{
+  "telegram": {
+    "api_id": 27117681,
+    "api_hash": "243ee8647d437c0d662ca144a19d584e",
+    "chat": -1001234567890,
+    "topic_id": 0,
+    "initial_history_limit": 200
+  },
+  "rulate": {
+    "base_url": "https://tl.rulate.ru",
+    "like_books": true,
+    "rate_story": true,
+    "rate_quality": true,
+    "bookmark": true,
+    "bookmark_type": "1",
+    "vacuum_chapters": false,
+    "view_chapters": false,
+    "like_chapters": false,
+    "skip_paid_chapters": true,
+    "chapter_limit": 0,
+    "daily_recheck_days": 0,
+    "daily_recheck_limit": 0
+  },
+  "browser": {
+    "headless": true,
+    "slow_mo_ms": 0,
+    "page_timeout_ms": 30000,
+    "proxy_enabled": false,
+    "proxy_type": "ipv4",
+    "proxy_scheme": "http",
+    "proxy_host": "",
+    "proxy_port": 0,
+    "proxy_username": "",
+    "proxy_password": ""
+  },
+  "runtime": {
+    "poll_interval_seconds": 60,
+    "delay_between_books_seconds": 2,
+    "delay_before_chapter_like_seconds": 5,
+    "delay_after_chapter_like_seconds": 5
+  },
+  "storage": {
+    "data_dir": "data"
+  }
+}
