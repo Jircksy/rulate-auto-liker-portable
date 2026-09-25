@@ -1,11 +1,17 @@
-# Release Asset v2026.09.25
+# Release assets v2026.09.25.1
 
-File: `rulate-auto-liker-portable-v2026.09.25.zip`
+Full portable package: `rulate-auto-liker-portable-v2026.09.25.1.zip`
 
-Size: 399,994,254 bytes
+Size: 399,994,790 bytes
 
-SHA256: `1D299E291153ED4CD69935295E3AB6BAC9A78A9A08BB3CA81D096785B36A2C6F`
+SHA256: `DE4729D631F98C07C9A21728DC43346AEE9930A840C87139F648E91BDB0A86DF`
 
-Download: https://github.com/Jircksy/rulate-auto-liker-portable/releases/download/v2026.09.25/rulate-auto-liker-portable-v2026.09.25.zip
+Download: https://github.com/Jircksy/rulate-auto-liker-portable/releases/download/v2026.09.25.1/rulate-auto-liker-portable-v2026.09.25.1.zip
 
-The ZIP contains the EXE, bundled Chromium, README and config example. It excludes user data, sessions, browser profiles and `config.json`.
+EXE only (for updating from v2026.09.25): `RulateAutoLiker.exe`
+
+SHA256: `6839248BB4DD959F4AB2480C1AFB53161177801377DE8E1EC6DCD9E55EABEBD6`
+
+Download: https://github.com/Jircksy/rulate-auto-liker-portable/releases/download/v2026.09.25.1/RulateAutoLiker.exe
+
+The ZIP contains the EXE, bundled Chromium, README and config example. It excludes user data, sessions, browser profiles, SQLite database and `config.json`.

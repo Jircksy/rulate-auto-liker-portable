@@ -35,6 +35,7 @@
   },
   "runtime": {
     "poll_interval_seconds": 60,
+    "max_books_per_pass": 50,
     "delay_between_books_seconds": 2,
     "delay_before_chapter_like_seconds": 5,
     "delay_after_chapter_like_seconds": 5
